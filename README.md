@@ -30,5 +30,3 @@ Nicolas Ouverney
 Dataset utilizado no trabalho:
 
 Breast Cancer Wisconsin Data Set. Disponível em: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
-
-Tecnologias: Python, TensorFlow, Keras, Scikit-learn, Pandas, Jupyter Notebook, Git.
